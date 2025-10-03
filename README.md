@@ -29,7 +29,7 @@ Goal: Make news-consumption feel like a **daily ritual** rather than a constant 
 - **Background jobs**: WorkManager
 - **Widget tech**: **Glance**  
   - ✅ Reason 1: Compose-like API → consistent dev experience with Jetpack Compose  
-  - ✅ Reason 2: Easier to build modern, reactive widgets compared to legacy RemoteViews
+  - ✅ Reason 2: Easier to build modern, less boilerplate-code, abstracts away much of the complexity of RemoteViews
 
 ---
 
